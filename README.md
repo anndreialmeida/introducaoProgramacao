@@ -1,8 +1,7 @@
 # introducaoProgramacao
 
 # Andrei
-## Hello, Devs!!
-- 🔭 Atualmente estou trabalhando com Analise de sistemas na Ambev Tech ...
+## Hello!
 - 🌱 Atualmente estou aprendendo Java ...
 
 ## Ferramentas que possou conhecimento:
